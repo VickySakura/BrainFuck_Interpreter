@@ -1,6 +1,6 @@
 BrainFuckのパーサが
 
-コマンドパラメータ:BrainFuck &lt;command&gt;
+コマンドパラメータ:BrainFuck &lt;FileAddress&lt; &lt;command&gt;
 
 &lt;command&gt;(オプション):
 
